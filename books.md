@@ -8,5 +8,10 @@
 * *The Kubernetes Book* by Nigel Poulton
 * *Ansible for DevOps* by Jeff Geerling
 
+## Software
+
+* *Crafting Interpreters* by Robert Nystrom
+* *Writing an Interpreter in Go* by Thorsten Ball
+
 ## Python
 * *Python Tricks: A Buffet of Awesome Python Features* by Dan Bader
